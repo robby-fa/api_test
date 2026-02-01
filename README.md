@@ -1,4 +1,4 @@
-# Cloud-Based API Automation Testing - Dropsuite Portfolio
+# Cloud-Based API Automation Testing - Portfolio
 
 ## 📌 Project Overview
 
@@ -16,9 +16,9 @@ Proyek ini adalah kerangka kerja pengujian otomatisasi (Automation Testing Frame
 
 Proyek ini mencakup pengujian fungsionalitas Backend yang krusial:
 
-1. **Positive Test:** Memvalidasi pembuatan record baru (POST) dengan status code 201.
+1. **Positive Test:** Memvalidasi pembuatan record baru (POST).
 2. **Data Integrity Check:** Memastikan payload yang dikirim sama persis dengan data yang tersimpan/dikembalikan oleh API.
-3. **Negative Test:** Menangani error handling (404 Not Found) untuk ID yang tidak valid.
+3. **Negative Test:** Menangani error handling untuk ID yang tidak valid.
 4. **Schema Validation:** Memastikan struktur JSON respons konsisten.
 
 ## 🚀 Getting Started
